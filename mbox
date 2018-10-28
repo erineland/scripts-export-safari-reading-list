@@ -1,0 +1,207 @@
+From MAILER-DAEMON  Sat Aug 30 20:05:30 2014
+Return-Path: <>
+X-Original-To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Delivered-To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Received: by ***REMOVED***-***REMOVED***-mbp.home (Postfix)
+	id 02E361A4259; Sat, 30 Aug 2014 20:05:30 +0100 (BST)
+Date: Sat, 30 Aug 2014 20:05:30 +0100 (BST)
+From: MAILER-DAEMON@***REMOVED***-***REMOVED***-mbp.home (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="DEE481A4257.1409425530/***REMOVED***-***REMOVED***-mbp.home"
+Message-Id: <20140830190530.02E361A4259@***REMOVED***-***REMOVED***-mbp.home>
+Status: RO
+
+This is a MIME-encapsulated message.
+
+--DEE481A4257.1409425530/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ***REMOVED***-***REMOVED***-mbp.home.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<open@***REMOVED***-***REMOVED***-mbp.home> (expanded from <open>): unknown user: "open"
+
+--DEE481A4257.1409425530/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ***REMOVED***-***REMOVED***-mbp.home
+X-Postfix-Queue-ID: DEE481A4257
+X-Postfix-Sender: rfc822; ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Arrival-Date: Sat, 30 Aug 2014 20:05:29 +0100 (BST)
+
+Final-Recipient: rfc822; open@***REMOVED***-***REMOVED***-mbp.home
+Original-Recipient: rfc822; open
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "open"
+
+--DEE481A4257.1409425530/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <***REMOVED***@***REMOVED***-***REMOVED***-mbp.home>
+Received: by ***REMOVED***-***REMOVED***-mbp.home (Postfix, from userid 501)
+	id DEE481A4257; Sat, 30 Aug 2014 20:05:29 +0100 (BST)
+To: open@***REMOVED***-***REMOVED***-mbp.home
+Message-Id: <20140830190529.DEE481A4257@***REMOVED***-***REMOVED***-mbp.home>
+Date: Sat, 30 Aug 2014 20:05:29 +0100 (BST)
+From: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home (***REMOVED***)
+
+jl
+
+
+--DEE481A4257.1409425530/***REMOVED***-***REMOVED***-mbp.home--
+
+From MAILER-DAEMON  Sat Aug 30 19:56:42 2014
+Return-Path: <>
+X-Original-To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Delivered-To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Received: by ***REMOVED***-***REMOVED***-mbp.home (Postfix)
+	id 2D54F1A371C; Sat, 30 Aug 2014 19:56:42 +0100 (BST)
+Date: Sat, 30 Aug 2014 19:56:42 +0100 (BST)
+From: MAILER-DAEMON@***REMOVED***-***REMOVED***-mbp.home (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home"
+Message-Id: <20140830185642.2D54F1A371C@***REMOVED***-***REMOVED***-mbp.home>
+Status: RO
+
+This is a MIME-encapsulated message.
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ***REMOVED***-***REMOVED***-mbp.home.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<man@***REMOVED***-***REMOVED***-mbp.home> (expanded from <man>): unknown user: "man"
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ***REMOVED***-***REMOVED***-mbp.home
+X-Postfix-Queue-ID: 0AEAC1A3714
+X-Postfix-Sender: rfc822; ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Arrival-Date: Sat, 30 Aug 2014 19:56:41 +0100 (BST)
+
+Final-Recipient: rfc822; man@***REMOVED***-***REMOVED***-mbp.home
+Original-Recipient: rfc822; man
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "man"
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <***REMOVED***@***REMOVED***-***REMOVED***-mbp.home>
+Received: by ***REMOVED***-***REMOVED***-mbp.home (Postfix, from userid 501)
+	id 0AEAC1A3714; Sat, 30 Aug 2014 19:56:41 +0100 (BST)
+To: man@***REMOVED***-***REMOVED***-mbp.home
+Subject: test
+Message-Id: <20140830185642.0AEAC1A3714@***REMOVED***-***REMOVED***-mbp.home>
+Date: Sat, 30 Aug 2014 19:56:41 +0100 (BST)
+From: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home (***REMOVED***)
+
+adfasdf
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home--
+
+From MAILER-DAEMON  Sat Aug 30 19:56:42 2014
+Return-Path: <>
+X-Original-To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Delivered-To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Received: by ***REMOVED***-***REMOVED***-mbp.home (Postfix)
+	id 2D54F1A371C; Sat, 30 Aug 2014 19:56:42 +0100 (BST)
+Date: Sat, 30 Aug 2014 19:56:42 +0100 (BST)
+From: MAILER-DAEMON@***REMOVED***-***REMOVED***-mbp.home (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home"
+Message-Id: <20140830185642.2D54F1A371C@***REMOVED***-***REMOVED***-mbp.home>
+Status: RO
+
+This is a MIME-encapsulated message.
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ***REMOVED***-***REMOVED***-mbp.home.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<man@***REMOVED***-***REMOVED***-mbp.home> (expanded from <man>): unknown user: "man"
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ***REMOVED***-***REMOVED***-mbp.home
+X-Postfix-Queue-ID: 0AEAC1A3714
+X-Postfix-Sender: rfc822; ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home
+Arrival-Date: Sat, 30 Aug 2014 19:56:41 +0100 (BST)
+
+Final-Recipient: rfc822; man@***REMOVED***-***REMOVED***-mbp.home
+Original-Recipient: rfc822; man
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "man"
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <***REMOVED***@***REMOVED***-***REMOVED***-mbp.home>
+Received: by ***REMOVED***-***REMOVED***-mbp.home (Postfix, from userid 501)
+	id 0AEAC1A3714; Sat, 30 Aug 2014 19:56:41 +0100 (BST)
+To: man@***REMOVED***-***REMOVED***-mbp.home
+Subject: test
+Message-Id: <20140830185642.0AEAC1A3714@***REMOVED***-***REMOVED***-mbp.home>
+Date: Sat, 30 Aug 2014 19:56:41 +0100 (BST)
+From: ***REMOVED***@***REMOVED***-***REMOVED***-mbp.home (***REMOVED***)
+
+adfasdf
+
+--0AEAC1A3714.1409425002/***REMOVED***-***REMOVED***-mbp.home--
+
