@@ -8,9 +8,9 @@
 while IFS= read -r line
 do
     echo $line
-/usr/sbin/sendmail -i -f ***REMOVED******REMOVED***168@gmail.com add@getpocket.com <<END
+/usr/sbin/sendmail -i -f ErinEland168@gmail.com add@getpocket.com <<END
 Subject: $line
-From: ***REMOVED******REMOVED***168@gmail.com
+From: ErinEland168@gmail.com
 To: add@getpocket.com
 
 $line
